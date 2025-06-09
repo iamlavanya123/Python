@@ -1,3 +1,4 @@
+
 Here I will track my progress everyday
 d/m/yy
 9/6/25 -- Started following along Python for Everybody video
@@ -39,7 +40,7 @@ indefinte loop -- while loop
 
 while loops are called "indefinte loops" because they keep going until a logical condition becomes false.
 
-
+2:25:06
 
 
 
