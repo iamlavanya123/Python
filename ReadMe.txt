@@ -40,7 +40,18 @@ indefinte loop -- while loop
 
 while loops are called "indefinte loops" because they keep going until a logical condition becomes false.
 
-2:25:06
+10/6/2025
+definite loop -- for loop
+
+they run a finite number of times
+
+None is a constant, often used to indicate empty
+
+is(is the same as) and is not operator in python (you can think of this as == or !=) (just use this operator for None or True/False(Boolean))
+
+5 easy problems in Hackerank done
+
+Strings
 
 
 
